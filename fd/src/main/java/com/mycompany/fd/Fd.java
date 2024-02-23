@@ -12,6 +12,6 @@ public class Fd {
 
     public static void main(String[] args) {
         System.out.println("Hello hyaerrrrrqw5a5rhyald!");
-        System.out.println("Hell5rhyald!");
+        System.out.println("Hell5rrgwehy5thjt6wh5rthyald!");
     }
 }
